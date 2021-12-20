@@ -55,9 +55,9 @@ Følgende funktioner kan køres på nuværende tidspunkt:
 36. Giver mulighed for at skifte en pakkes tracking id ved at søge på id gennem scanner
 37. Giver mulighed for at skifte en placerings id ved at søge på id gennem scanner
 38. Giver mulighed for at skifte en placerings beskrivelse ved at søge på id gennem scanner
-39. Udskriver alle users i tabellen CreateUser gennem arraylist
-40. Udskriver alle users i tabellen CreatePackage gennem arraylist
-41. Udskriver alle users i tabellen CreatePlacement gennem arraylist
+39. Udskriver alle users i tabellen allekunder gennem arraylist
+40. Udskriver alle users i tabellen allepakker gennem arraylist
+41. Udskriver alle users i tabellen alleplaceringer gennem arraylist
 
 
 Et forslag til menu og oprettelse af bruger kunne se ud på følgende måde:
