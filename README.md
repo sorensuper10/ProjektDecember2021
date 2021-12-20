@@ -15,6 +15,9 @@ Man kan også søge på følgende emner:
 
 Søgningerne bliver udskrevet i konsollen.
 
+Det er muligt at redigere i forskellige ting gennem søgninger på id.
+Dette kan gøres på forskellige elementer (se punkt 24-38 i switch).
+
 Switch er blevet etableret i koden med scanner input.
 Følgende funktioner kan køres på nuværende tidspunkt:
 1. Opretter bruger med statiske værdier
