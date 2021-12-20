@@ -21,6 +21,8 @@ Fremtidige muligheder:
 - Søgning på kunder via scanner input.
 - Søgning på pakker via scanner input.
 - - Denne kan videreudvikles til også at udskrive opdateringer på pakken. Dette skal være alt information der ligger omkring den pakke (id) i update tabellen.
+- Poteltielt inførsel af simpel GUI.
+- - Potentielt inførsel af fuld GUI (komplet program).
 
 
 Et forslag til menu og oprettelse af bruger kunne se ud på følgende måde:
