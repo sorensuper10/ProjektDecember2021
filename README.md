@@ -23,3 +23,5 @@ Fremtidige muligheder:
 - - Denne kan videreudvikles til også at udskrive opdateringer på pakken. Dette skal være alt information der ligger omkring den pakke (id) i update tabellen.
 
 
+Et forslag til menu og oprettelse af bruger kunne se ud på følgende måde:
+![decemberGuiCreateUser](https://user-images.githubusercontent.com/89969218/146743427-81b006e0-dce5-48de-bfb7-652e46fcdebe.PNG)
