@@ -14,6 +14,8 @@ Man kan også søge på følgende emner:
 
 Søgningerne bliver udskrevet i konsollen.
 
+Man kan søge på alle information omkring kunder, pakker og placering gennem en arrayliste.
+
 Fremtidige muligheder:
 - Oprettelse af kunde via scanner input.
 - Oprettelse af pakke via scanner input.
