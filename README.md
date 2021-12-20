@@ -8,7 +8,7 @@ Dette kan bruges til følgende oprettelser:
 - En opdatering
 
 Man kan også søge på følgende emner:
-- Kunde, dette er på forskellige informationer (id, fornavn, efternavn, mail, telefon, adresse, postnummer, land, samt noter)
+- Kunde, dette er på forskellige informationer (id, fornavn, efternavn, mail, telefon, adresse, land, postnummer, samt noter)
 - Pakke, dette er på følgende informationer (id, pakkenavn, pakke vægt, sendt dato og tracking id)
 - Placering, dette er på følgende informationer (id og beskrivelse)
 
