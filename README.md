@@ -27,9 +27,12 @@ Et forslag til menu og oprettelse af bruger kunne se ud på følgende måde:
 ![decemberGuiCreateUser](https://user-images.githubusercontent.com/89969218/146743427-81b006e0-dce5-48de-bfb7-652e46fcdebe.PNG)
 
 Hvis man trykker på track pakke så kommer disse muligheder op.
-
 ![Indtast trackingnummer](https://user-images.githubusercontent.com/89455430/146743609-d357dfab-6c94-450b-b0c6-de3faa336a2c.PNG)
 
+I tilfælde af at pakken ikke finde i systemet, fx. hvis man har skrevet noget forkert, er følgende en mulighed:
 ![Pakke ikke fundet](https://user-images.githubusercontent.com/89455430/146743623-9594d15e-5faa-40d5-9067-0629382ef115.PNG)
+
+Dette vil være hvad der sker når en pakke er fundet. Den giver et overblik over processen
+pakken har været i og dens nuværende placering/situation.
 
 ![Sporing af pakke](https://user-images.githubusercontent.com/89455430/146743631-5f9ce715-c873-4891-89c8-5f545f478c70.PNG)
