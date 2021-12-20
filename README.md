@@ -12,6 +12,8 @@ Man kan også søge på følgende emner:
 - Pakke, dette er på følgende informationer (id, pakkenavn, pakke vægt, sendt dato og tracking id)
 - Placering, dette er på følgende informationer (id og beskrivelse)
 
+Søgningerne blive udskrevet i konsollen.
+
 Fremtidige muligheder:
 - Oprettelse af kunde via scanner input.
 - Oprettelse af pakke via scanner input.
