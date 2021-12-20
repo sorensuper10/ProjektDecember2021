@@ -29,20 +29,20 @@ Følgende funktioner kan køres på nuværende tidspunkt:
 7. Sletter kunde angived med statisk id
 8. Sletter pakke angived med statisk id
 9. Sletter placering angived med statisk id
-10. Udskriver første person i CreateUser tabel med statisk angivet fornavn
-11. Udskriver første person i CreateUser tabel med statisk angivet efternavn
-12. Udskriver første person i CreateUser tabel med statisk angivet mail
-13. Udskriver første person i CreateUser tabel med statisk angivet telefon nr
-14. Udskriver første person i CreateUser tabel med statisk angivet adresse
-15. Udskriver første person i CreateUser tabel med statisk angivet postnummer
-16. Udskriver første person i CreateUser tabel med statisk angivet land
-17. Udskriver første person i CreateUser tabel med statisk angivet note
-18. Udskriver første pakke i CreatePackage tabel med statisk angivet navn
-19. Udskriver første pakke i CreatePackage tabel med statisk angivet vægt
-20. Udskriver første pakke i CreatePackage tabel med statisk angivet forsendelsesdato
-21. Udskriver første pakke i CreatePackage tabel med statisk angivet tracking id
-22. Udskriver første placering i CreatePlacement tabel med statisk angivet id
-23. Udskriver første placering i CreatePlacement tabel med statisk angivet beskrivelse
+10. Udskriver første person i Costumers tabel med statisk angivet fornavn
+11. Udskriver første person i Costumers tabel med statisk angivet efternavn
+12. Udskriver første person i Costumers tabel med statisk angivet mail
+13. Udskriver første person i Costumers tabel med statisk angivet telefon nr
+14. Udskriver første person i Costumers tabel med statisk angivet adresse
+15. Udskriver første person i Costumers tabel med statisk angivet postnummer
+16. Udskriver første person i Costumers tabel med statisk angivet land
+17. Udskriver første person i Costumers tabel med statisk angivet note
+18. Udskriver første pakke i Packages tabel med statisk angivet navn
+19. Udskriver første pakke i Packages tabel med statisk angivet vægt
+20. Udskriver første pakke i Packages tabel med statisk angivet forsendelsesdato
+21. Udskriver første pakke i Packages tabel med statisk angivet tracking id
+22. Udskriver første placering i Placement tabel med statisk angivet id
+23. Udskriver første placering i Placement tabel med statisk angivet beskrivelse
 24. Giver mulighed for at skifte kunde fornavn ved at søge på id gennem scanner
 25. Giver mulighed for at skifte kunde efternavn ved at søge på id gennem scanner
 26. Giver mulighed for at skifte kunde mail ved at søge på id gennem scanner
