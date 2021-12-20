@@ -12,9 +12,9 @@ Man kan også søge på følgende emner:
 - Pakke, dette er på følgende informationer (id, pakkenavn, pakke vægt, sendt dato og tracking id)
 - Placering, dette er på følgende informationer (id og beskrivelse)
 
-Søgningerne bliver udskrevet i konsollen.
-
 Man kan også få al information omkring kunder, pakker og placering udskrevet gennem flere arraylister.
+
+Søgningerne bliver udskrevet i konsollen.
 
 Fremtidige muligheder:
 - Oprettelse af kunde via scanner input.
