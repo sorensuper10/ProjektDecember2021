@@ -26,7 +26,7 @@ Fremtidige muligheder:
 Et forslag til menu og oprettelse af bruger kunne se ud på følgende måde:
 ![decemberGuiCreateUser](https://user-images.githubusercontent.com/89969218/146743427-81b006e0-dce5-48de-bfb7-652e46fcdebe.PNG)
 
-Hvis man trykker på track pakke så kommer disse muligheder op.
+Hvis man trykker på find pakke så kommer disse muligheder op:
 ![Indtast trackingnummer](https://user-images.githubusercontent.com/89455430/146743609-d357dfab-6c94-450b-b0c6-de3faa336a2c.PNG)
 
 I tilfælde af at pakken ikke finde i systemet, fx. hvis man har skrevet noget forkert, er følgende en mulighed:
