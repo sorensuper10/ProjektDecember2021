@@ -21,3 +21,4 @@ Fremtidige muligheder:
 - Søgning på kunder via scanner input.
 - Søgning på pakker via scanner input.
 - - Denne kan videreudvikles til også at udskrive opdateringer på pakken. Dette skal være alt information der ligger omkring den pakke (id) i update tabellen.
+![Sporing af pakke](https://user-images.githubusercontent.com/89455430/146743302-4f27da35-44bc-4dc1-b0e1-7c99861b8953.PNG)
