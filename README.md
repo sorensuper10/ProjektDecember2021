@@ -38,5 +38,4 @@ I tilfælde af at pakken ikke finde i systemet, fx. hvis man har skrevet noget f
 
 Dette vil være hvad der sker når en pakke er fundet. Den giver et overblik over processen
 pakken har været i og dens nuværende placering/situation.
-
 ![Sporing af pakke](https://user-images.githubusercontent.com/89455430/146743631-5f9ce715-c873-4891-89c8-5f545f478c70.PNG)
