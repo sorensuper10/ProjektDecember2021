@@ -11,8 +11,7 @@ Man kan også søge på følgende emner:
 - Kunde, dette er på forskellige informationer (id, fornavn, efternavn, mail, telefon, adresse, land, postnummer, samt noter)
 - Pakke, dette er på følgende informationer (id, pakkenavn, pakke vægt, sendt dato og tracking id)
 - Placering, dette er på følgende informationer (id og beskrivelse)
-
-Man kan også få al information omkring kunder, pakker og placering udskrevet gennem flere arraylister.
+- Man kan også få al information omkring kunder, pakker og placering udskrevet gennem flere arraylister.
 
 Søgningerne bliver udskrevet i konsollen.
 
