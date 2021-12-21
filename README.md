@@ -63,6 +63,7 @@ Følgende funktioner kan køres på nuværende tidspunkt:
 41. Udskriver alle users i tabellen alleplaceringer gennem arraylist
 42. Launcher GUI
 
+Ved brug af GUI virker de to sidste knapper på nuværende tidspunkt.
 
 Et forslag til menu og oprettelse af bruger kunne se ud på følgende måde:
 ![decemberGuiCreateUser](https://user-images.githubusercontent.com/89969218/146743427-81b006e0-dce5-48de-bfb7-652e46fcdebe.PNG)
