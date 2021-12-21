@@ -61,6 +61,7 @@ Følgende funktioner kan køres på nuværende tidspunkt:
 39. Udskriver alle users i tabellen allekunder gennem arraylist
 40. Udskriver alle users i tabellen allepakker gennem arraylist
 41. Udskriver alle users i tabellen alleplaceringer gennem arraylist
+42. Launcher GUI
 
 
 Et forslag til menu og oprettelse af bruger kunne se ud på følgende måde:
